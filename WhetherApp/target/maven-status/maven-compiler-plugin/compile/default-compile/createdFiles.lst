@@ -1,0 +1,6 @@
+com/WhetherApp/service/TempService.class
+com/WhetherApp/controller/TempController.class
+com/WhetherApp/config/Configration.class
+com/WhetherApp/res/ApiRes.class
+com/WhetherApp/util/Utility.class
+com/WhetherApp/WhetherAppApplication.class
